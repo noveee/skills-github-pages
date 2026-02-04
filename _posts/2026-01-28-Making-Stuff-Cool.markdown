@@ -2,7 +2,7 @@
 layout: default
 title:  "Making Stuff Cool"
 date:   2026-01-28
-categories: General
+categories: general
 ---
 
 ### Whew
